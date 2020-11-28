@@ -1,2 +1,2 @@
 # kombinat
-support http://kombinat.fm/
+http://kombinat.fm/
